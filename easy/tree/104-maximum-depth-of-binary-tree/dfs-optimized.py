@@ -7,7 +7,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def maxDepth(self, root: Optional[TreeNode]) -> int:        
+    def maxDepth(self, root#: Optional[TreeNode]
+                 ) -> int:        
         def searchChildren(node, depth):
             if not node:
                 return depth
