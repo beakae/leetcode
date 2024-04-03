@@ -1,4 +1,4 @@
-#beat 76% and 84%
+#beat 85% runtime and 98% memory
 
 # Definition for a binary tree node.
 class TreeNode:
