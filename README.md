@@ -1,3 +1,3 @@
 #readme
 
-#testing pull and push
+#easy problems thusfar: 101, 104, 108, 111
