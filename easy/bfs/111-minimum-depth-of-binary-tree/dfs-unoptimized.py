@@ -1,4 +1,5 @@
-#beats 55% runtime and 14% memory
+# beats 19% runtime and 95% memory
+# O(N) runtime and O(logN) memory
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -11,12 +12,10 @@ class Solution:
                  ) -> int:
         if not root:
             return 0
-        left = self.minDepth(root.left)
-        right = self.minDepth(root.right)
-        if not root.left and not root.right:
-            return 1
-        if not root.left:
-            return 1 + right
-        if not root.right:
-            return 1 + left
-        return min(left, right) + 1
+        def bfs(node):
+            if not node:
+                return float('inf')
+            if not node.left and not node.right:
+                return 1
+            return min(bfs(node.left), bfs(node.right)) + 1
+        return bfs(root)
