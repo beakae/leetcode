@@ -1,4 +1,6 @@
-#beat 95% runtime and 97% memory
+# beats 95% runtime and 97% memory
+# O(N) time and O(N) space
+# O(logN) space best case
 
 # Definition for a binary tree node.
 # class TreeNode:
