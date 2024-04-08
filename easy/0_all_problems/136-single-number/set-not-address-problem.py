@@ -1,6 +1,6 @@
 # beats 62% runtime and 8% memory
-# O(N) time and O(N) space
-# O(N/2) space
+# O(n) time and O(n) space
+# O(n/2) space
 
 class Solution:
     def singleNumber(self, nums#: List[int]

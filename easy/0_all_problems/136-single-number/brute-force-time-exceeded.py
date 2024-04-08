@@ -1,5 +1,5 @@
 # time exceeded
-# O(N^2) time and O(1) space
+# O(n^2) time and O(1) space
 
 class Solution:
     def singleNumber(self, nums#: List[int]
