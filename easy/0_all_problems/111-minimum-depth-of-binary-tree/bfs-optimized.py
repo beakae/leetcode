@@ -1,7 +1,7 @@
 # beats 100% runtime and 50% memory
 # beats 85% runtime and 100% memory
-# O(N) time and O(N) space
-# O(N/2) time
+# O(n) time and O(n) space
+# O(n/2) time
 
 from collections import deque
 # Definition for a binary tree node.

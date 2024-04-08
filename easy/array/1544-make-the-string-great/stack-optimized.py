@@ -1,5 +1,5 @@
 # beats 69% runtime and 91% memory
-# O(N) time and O(N) space
+# O(n) time and O(n) space
 
 class Solution:
     def makeGood(self, s: str) -> str:

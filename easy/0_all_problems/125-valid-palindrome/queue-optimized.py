@@ -1,5 +1,5 @@
 # beats 91% runtime and 7% memory
-# O(N) time and O(N) space
+# O(n) time and O(n) space
 
 from collections import deque
 class Solution:

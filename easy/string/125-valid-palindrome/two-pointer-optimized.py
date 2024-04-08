@@ -1,5 +1,5 @@
 # beats 89% runtime and 92% memory
-# O(N) time and O(1) space
+# O(n) time and O(1) space
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
