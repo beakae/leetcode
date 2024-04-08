@@ -2,7 +2,8 @@
 # O(NlogN) time and O(1) space
 
 class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
+    def singleNumber(self, nums#: List[int]
+                     ) -> int:
         if len(nums) == 1:
             return nums[0]
 
