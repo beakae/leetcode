@@ -10,3 +10,6 @@
 - learn bitwise for #135
 
 ## Notable Algorithms
+
+-  Floyd's Tortoise and Hare Algorithm
+Fast and slow pointer
