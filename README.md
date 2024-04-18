@@ -10,7 +10,8 @@
 
 ## Notable Algorithms
 
--  Floyd's Tortoise and Hare Algorithm
+- Floyd's Tortoise and Hare Algorithm
+- Backtracking
 
 Fast and slow pointer
 
