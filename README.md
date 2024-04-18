@@ -1,6 +1,6 @@
 # beakae's leetcode
 
-- Easy Count:
+- Easy Count: 17
 - Medium Count: 2
 
 ## To-Do
