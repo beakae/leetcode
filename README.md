@@ -1,5 +1,8 @@
 # beakae's leetcode
 
+- Easy Count:
+- Medium Count:
+
 ## To-Do
 
 - learn a sort method like TimSort for #136
