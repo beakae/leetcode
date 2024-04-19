@@ -12,6 +12,7 @@
 
 - Floyd's Tortoise and Hare Algorithm
 - Backtracking
+- counting thing
 
 Fast and slow pointer
 
