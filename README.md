@@ -2,7 +2,7 @@
 
 - Easy Count: 17
 - Medium Count: 2
-
+- add 80
 ## To-Do
 
 - learn a sort method like TimSort for #136
