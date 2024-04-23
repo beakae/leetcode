@@ -1,4 +1,4 @@
-# beats 90% runtime and 75% memory
+# beats 95% runtime and 75% memory
 # O(n) time and O(n) space
 
 class Solution:
