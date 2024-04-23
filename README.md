@@ -11,8 +11,12 @@
 ## Notable Algorithms
 
 - Floyd's Tortoise and Hare Algorithm
-- Backtracking
 - Boyer-Moore Voting Algorithm
+
+## Less Notable
+
+- Prefix Sum
+- Backtracking
 
 Fast and slow pointer
 
