@@ -21,3 +21,5 @@
 - Fast and slow pointer
 
 change 144 space complexity and dont use github
+
+# may counter
