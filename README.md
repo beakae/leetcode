@@ -2,6 +2,7 @@
 
 - Easy Count: 17
 - Medium Count: 2
+- Hard Count: 0
 
 ## To-Do
 
