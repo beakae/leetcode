@@ -1,4 +1,5 @@
 # beakae's leetcode
+# streak lost :(
 
 - Easy Count: 17
 - Medium Count: 2
