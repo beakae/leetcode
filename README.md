@@ -1,5 +1,5 @@
 # beakae's leetcode
-# streak lost :(
+# streak lost :( and currently not home
 
 - Easy Count: 17
 - Medium Count: 2
