@@ -1,7 +1,7 @@
 # beakae's leetcode
 # streak lost :(
 
-- Easy Count: 17
+- Easy Count: 20
 - Medium Count: 5
 - Hard Count: 0
 
