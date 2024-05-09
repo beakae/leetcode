@@ -2,7 +2,7 @@
 # streak lost :(
 
 - Easy Count: 20
-- Medium Count: 8
+- Medium Count: 9
 - Hard Count: 0
 
 ## To-Do
