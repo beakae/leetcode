@@ -1,5 +1,5 @@
 # beats 73% runtime and 90% memory
-# O(n) space and O(n) time
+# O(n) time and O(n) space
 
 # Definition for a binary tree node.
 # class TreeNode:
