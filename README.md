@@ -1,5 +1,6 @@
 # beakae's leetcode
 # still on vacation
+# relost streak :(
 
 - Easy Count: 20
 - Medium Count: 10
